@@ -1,2 +1,3 @@
 # odin-recipes
-A project to demonstrate understanding of basic HTML showing 3 different chicken recipes on 4 different pages with HTML
+A project to demonstrate understanding of basic HTML.
+Three different recipes on how to cook chicken are presented, on 4 different pages
